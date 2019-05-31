@@ -1,0 +1,15 @@
+D:\Projek LKS\Terkahir\Terkahir\bin\Debug\Terkahir.exe.config
+D:\Projek LKS\Terkahir\Terkahir\bin\Debug\Terkahir.exe
+D:\Projek LKS\Terkahir\Terkahir\bin\Debug\Terkahir.pdb
+D:\Projek LKS\Terkahir\Terkahir\bin\Debug\Terkahir.xml
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.Form1.resources
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.Resources.resources
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.vbproj.GenerateResource.Cache
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.exe
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.xml
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.pdb
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.Form_Utama.resources
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.Management_Murid.resources
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.Edit.resources
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.vbprojResolveAssemblyReference.cache
+D:\Projek LKS\Terkahir\Terkahir\obj\Debug\Terkahir.Form2.resources
